@@ -1,6 +1,6 @@
 # don´t read me
 
-[Write me](https://github.com/return-misaPuding/return-misaPuding/edit/main/README.md), or [talk with that dumb creature which wrote this](https://github.com/return-misaPuding/return-misaPuding/discussions) instead
+[Write me](https://github.com/return-misaPuding/return-misaPuding/edit/main/README.md), or [talk with the creature which wrote this](https://github.com/return-misaPuding/return-misaPuding/discussions) instead
 
 <!--
 **return-misaPuding/return-misaPuding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
